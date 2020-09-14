@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.apiTest.FetchTest"/>
+      <class name="com.automation.CreateData"/>
+      <class name="com.automation.AddNewData"/>
+      <class name="com.automation.FetchBook"/>
+      <class name="com.automation.DeleteData"/>
+      <class name="com.automation.FetchName"/>
+      <class name="com.automation.IteratorFetchData"/>
+      <class name="com.automation.PutData"/>
+      <class name="com.automation.FetchData"/>
+      <class name="com.automation.PatchData"/>
+      <class name="com.automation.FetchingNewData"/>
+      <class name="com.automation.AssertR"/>
+      <class name="com.automation.GetTest1"/>
+      <class name="com.automation.AssertionT"/>
+      <class name="com.automation.QueryP"/>
+      <class name="com.automation.AddNew2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

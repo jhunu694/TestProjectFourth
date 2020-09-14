@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15157" started-at="2020-09-12T13:36:38Z" finished-at="2020-09-12T13:36:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15157" started-at="2020-09-12T13:36:38Z" finished-at="2020-09-12T13:36:53Z">
+      <class name="com.automation.QueryP">
+        <test-method status="PASS" signature="checkp()[pri:0, instance:com.automation.QueryP@34b7bfc0]" name="checkp" duration-ms="844" started-at="2020-09-12T19:06:52Z" finished-at="2020-09-12T19:06:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkp -->
+      </class> <!-- com.automation.QueryP -->
+      <class name="com.automation.GetTest1">
+        <test-method status="PASS" signature="checkData()[pri:0, instance:com.automation.GetTest1@337d0578]" name="checkData" duration-ms="78" started-at="2020-09-12T19:06:52Z" finished-at="2020-09-12T19:06:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkData -->
+      </class> <!-- com.automation.GetTest1 -->
+      <class name="com.automation.AssertR">
+        <test-method status="PASS" signature="checkRest()[pri:0, instance:com.automation.AssertR@61a485d2]" name="checkRest" duration-ms="937" started-at="2020-09-12T19:06:51Z" finished-at="2020-09-12T19:06:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRest -->
+      </class> <!-- com.automation.AssertR -->
+      <class name="com.automation.AddNew2">
+        <test-method status="PASS" signature="data()[pri:0, instance:com.automation.AddNew2@12843fce]" name="data" duration-ms="47" started-at="2020-09-12T19:06:53Z" finished-at="2020-09-12T19:06:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+      </class> <!-- com.automation.AddNew2 -->
+      <class name="com.automation.IteratorFetchData">
+        <test-method status="PASS" signature="checkData()[pri:0, instance:com.automation.IteratorFetchData@2cb4c3ab]" name="checkData" duration-ms="1204" started-at="2020-09-12T19:06:45Z" finished-at="2020-09-12T19:06:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkData -->
+      </class> <!-- com.automation.IteratorFetchData -->
+      <class name="com.automation.FetchBook">
+        <test-method status="PASS" signature="fetch()[pri:0, instance:com.automation.FetchBook@153f5a29]" name="fetch" duration-ms="1890" started-at="2020-09-12T19:06:42Z" finished-at="2020-09-12T19:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetch -->
+      </class> <!-- com.automation.FetchBook -->
+      <class name="com.automation.FetchData">
+        <test-method status="PASS" signature="getData()[pri:0, instance:com.automation.FetchData@13c78c0b]" name="getData" duration-ms="47" started-at="2020-09-12T19:06:46Z" finished-at="2020-09-12T19:06:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- com.automation.FetchData -->
+      <class name="com.automation.PutData">
+        <test-method status="PASS" signature="putD()[pri:0, instance:com.automation.PutData@97e1986]" name="putD" duration-ms="62" started-at="2020-09-12T19:06:46Z" finished-at="2020-09-12T19:06:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putD -->
+      </class> <!-- com.automation.PutData -->
+      <class name="com.automation.AssertionT">
+        <test-method status="PASS" signature="assertv()[pri:0, instance:com.automation.AssertionT@69d9c55]" name="assertv" duration-ms="469" started-at="2020-09-12T19:06:52Z" finished-at="2020-09-12T19:06:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertv -->
+      </class> <!-- com.automation.AssertionT -->
+      <class name="com.automation.DeleteData">
+        <test-method status="PASS" signature="dt()[pri:0, instance:com.automation.DeleteData@26f67b76]" name="dt" duration-ms="47" started-at="2020-09-12T19:06:44Z" finished-at="2020-09-12T19:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dt -->
+      </class> <!-- com.automation.DeleteData -->
+      <class name="com.automation.FetchingNewData">
+        <test-method status="PASS" signature="check()[pri:0, instance:com.automation.FetchingNewData@7ca48474]" name="check" duration-ms="4344" started-at="2020-09-12T19:06:46Z" finished-at="2020-09-12T19:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- com.automation.FetchingNewData -->
+      <class name="com.automation.AddNewData">
+        <test-method status="PASS" signature="addnew()[pri:0, instance:com.automation.AddNewData@50f8360d]" name="addnew" duration-ms="63" started-at="2020-09-12T19:06:42Z" finished-at="2020-09-12T19:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addnew -->
+      </class> <!-- com.automation.AddNewData -->
+      <class name="com.automation.PatchData">
+        <test-method status="PASS" signature="patchd()[pri:0, instance:com.automation.PatchData@7f560810]" name="patchd" duration-ms="47" started-at="2020-09-12T19:06:46Z" finished-at="2020-09-12T19:06:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patchd -->
+      </class> <!-- com.automation.PatchData -->
+      <class name="com.automation.CreateData">
+        <test-method status="PASS" signature="crd()[pri:0, instance:com.automation.CreateData@13a57a3b]" name="crd" duration-ms="515" started-at="2020-09-12T19:06:42Z" finished-at="2020-09-12T19:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crd -->
+      </class> <!-- com.automation.CreateData -->
+      <class name="com.apiTest.FetchTest">
+        <test-method status="PASS" signature="demo()[pri:0, instance:com.apiTest.FetchTest@59e84876]" name="demo" duration-ms="3454" started-at="2020-09-12T19:06:38Z" finished-at="2020-09-12T19:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- com.apiTest.FetchTest -->
+      <class name="com.automation.FetchName">
+        <test-method status="PASS" signature="check()[pri:0, instance:com.automation.FetchName@3dd3bcd]" name="check" duration-ms="1078" started-at="2020-09-12T19:06:44Z" finished-at="2020-09-12T19:06:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+      </class> <!-- com.automation.FetchName -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
